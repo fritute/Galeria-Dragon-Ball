@@ -1,0 +1,16 @@
+img{
+    width: 600px;
+    margin: auto;
+    border: 8px solid black;
+}
+h1{
+    font-size: 48px;
+    padding: 16px;
+    text-align: center;
+    background-color: orange;
+    
+}
+body{
+    background-color: #3378ad;
+    background-image: url(./img/bola\ do\ dragao.webp);
+}
